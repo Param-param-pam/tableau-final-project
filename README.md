@@ -1,6 +1,6 @@
 # Задание к дипломной работе
 
-[Ссылка на проект в Tableau](https://public.tableau.com/views/HW_8c_16826190152280/sheet0?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[Ссылка на проект в Tableau](https://public.tableau.com/views/FinalprojectEfimovaD/sheet0?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 1. Описание задачи
 Вы являетесь аналитиком стартапа разработчика игр в 2017 году. Перед вами стоит задача определить жанр и целевую аудиторию вашей будущей игры, чтобы получить наибольшее распространение. А также определить игры, на которые стоит ориентироваться как на «идеал» игр этого жанра.
